@@ -1,0 +1,49 @@
+.red{
+  background: #ff0000;
+  height: 100px;
+  width: 400px;
+}
+
+.green{
+background: #00ff1e;
+height: 250px;
+width: 150px;
+float: left;
+}
+
+.purple{
+background:purple;
+height:50px;
+width:150px;
+}
+
+
+.blue{
+  background: #3300ff;
+  height: 100px;
+  width: 150px;
+  float: left;
+}
+.purple-blue{
+   float:left;
+}
+
+
+.orange{
+  background: orange;
+  height:150px;
+  width:100px;
+  float:left;
+}
+
+.brown{
+  background:brown;
+  height: 100px;
+  width: 250px;
+}
+
+.yeloow{
+  background: #ffe600;
+  height: 100px;
+  width: 400px;
+}

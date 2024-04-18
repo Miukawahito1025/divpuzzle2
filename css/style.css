@@ -28,6 +28,9 @@ width:150px;
    float:left;
 }
 
+.purple-blue-orange-brown{
+  float:left;
+}
 
 .orange{
   background: orange;
@@ -42,8 +45,14 @@ width:150px;
   width: 250px;
 }
 
-.yeloow{
+.yellow{
   background: #ffe600;
   height: 100px;
   width: 400px;
+}
+
+.clearfix::after{
+  content: "";
+  display: block;
+  clear: both;
 }
